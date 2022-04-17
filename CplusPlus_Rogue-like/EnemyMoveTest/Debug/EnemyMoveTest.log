@@ -1,0 +1,16 @@
+﻿  EnemyMoveTest.cpp
+C:\Users\ROG\source\repos\GamePrograaming\EnemyMoveTest\EnemyMoveTest.cpp(213,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ROG\source\repos\GamePrograaming\EnemyMoveTest\EnemyMoveTest.cpp(303,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ROG\source\repos\GamePrograaming\EnemyMoveTest\EnemyMoveTest.cpp(319,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ROG\source\repos\GamePrograaming\EnemyMoveTest\EnemyMoveTest.cpp(335,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ROG\source\repos\GamePrograaming\EnemyMoveTest\EnemyMoveTest.cpp(351,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ROG\source\repos\GamePrograaming\EnemyMoveTest\EnemyMoveTest.cpp(369,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ROG\source\repos\GamePrograaming\EnemyMoveTest\EnemyMoveTest.cpp(386,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ROG\source\repos\GamePrograaming\EnemyMoveTest\EnemyMoveTest.cpp(391,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ROG\source\repos\GamePrograaming\EnemyMoveTest\EnemyMoveTest.cpp(406,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ROG\source\repos\GamePrograaming\EnemyMoveTest\EnemyMoveTest.cpp(408,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ROG\source\repos\GamePrograaming\EnemyMoveTest\EnemyMoveTest.cpp(440,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ROG\source\repos\GamePrograaming\EnemyMoveTest\EnemyMoveTest.cpp(445,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ROG\source\repos\GamePrograaming\EnemyMoveTest\EnemyMoveTest.cpp(453,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ROG\source\repos\GamePrograaming\EnemyMoveTest\EnemyMoveTest.cpp(457,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  EnemyMoveTest.vcxproj -> C:\Users\ROG\source\repos\GamePrograaming\Debug\EnemyMoveTest.exe

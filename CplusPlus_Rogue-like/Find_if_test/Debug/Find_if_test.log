@@ -1,0 +1,3 @@
+﻿  Find_if_test.cpp
+C:\Users\ROG\source\repos\GamePrograaming\Find_if_test\Find_if_test.cpp(12,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Find_if_test.vcxproj -> C:\Users\ROG\source\repos\GamePrograaming\Debug\Find_if_test.exe

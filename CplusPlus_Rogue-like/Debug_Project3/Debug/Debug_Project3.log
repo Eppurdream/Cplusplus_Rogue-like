@@ -1,0 +1,4 @@
+﻿  Debug_Project3.cpp
+C:\Users\ROG\source\repos\GamePrograaming\Debug_Project3\Debug_Project3.cpp(49,30): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ROG\source\repos\GamePrograaming\Debug_Project3\Debug_Project3.cpp(49,33): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Debug_Project3.vcxproj -> C:\Users\ROG\source\repos\GamePrograaming\Debug\Debug_Project3.exe

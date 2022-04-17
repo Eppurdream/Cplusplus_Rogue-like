@@ -1,0 +1,3 @@
+﻿  Double_Buffer.cpp
+C:\Users\ROG\source\repos\GamePrograaming\Double_Buffer\Double_Buffer.cpp(96,40): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Double_Buffer.vcxproj -> C:\Users\ROG\source\repos\GamePrograaming\Debug\Double_Buffer.exe
